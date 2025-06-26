@@ -1,0 +1,5 @@
+gene,chromosome,position,mutation_type,effect
+TP53,17,7579472,somatic,missense_variant
+PIK3CA,3,178936091,somatic,missense_variant
+NOTCH1,9,139390057,somatic,nonsense_variant
+CTNNB1,3,41266103,somatic,inframe_deletio
